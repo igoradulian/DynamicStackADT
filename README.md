@@ -12,3 +12,13 @@ Methods implemented:
 * count - count items in the stack
 * clear - remove all items from stack
 * isEmpty - checks if stack is empty
+
+How to use:
+Just clone project or download the zip file. If you don't want use them as part of CMAKE
+just copy these files:
+
+StackInterface.h
+DynamicStack.h
+DynamicStack.cpp
+
+I also would appricated if you suggest improvements and fix bugs.
