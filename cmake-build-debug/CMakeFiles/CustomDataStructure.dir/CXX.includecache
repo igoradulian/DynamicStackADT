@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/DynamicStack.cpp
+DynamicStack.h
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/DynamicStack.h
+memory
+-
+iostream
+-
+
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/DynamicStack.h
+StackInterface.h
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/StackInterface.h
+DynamicStack.cpp
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/DynamicStack.cpp
+
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/StackInterface.h
+
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/mainDynamic.cpp
+iostream
+-
+DynamicStack.h
+/Users/igoradulyan/Documents/CSIS211/CustomDataStructure/DynamicStack.h
+
