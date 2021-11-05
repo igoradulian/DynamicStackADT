@@ -17,8 +17,8 @@ How to use:
 Just clone project or download the zip file. If you don't want use them as part of CMAKE
 just copy these files:
 
-StackInterface.h\n
-DynamicStack.h\n
-DynamicStack.cpp\n
+StackInterface.h
+DynamicStack.h
+DynamicStack.cpp
 
 I also would appricated if you suggest improvements and fix bugs.
