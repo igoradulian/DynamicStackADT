@@ -1,4 +1,4 @@
-# DynamicStackADT
+# Dynamic Stack ADT
 Dynamic Stack ADT
 
 Problem
